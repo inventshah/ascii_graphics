@@ -1,0 +1,11 @@
+[package]
+name = "ascii_graphics"
+license = "MIT"
+version = "0.1.0"
+authors = ["inventshah <whilemilestogo@gmail.com>"]
+edition = "2018"
+description = "A Rust library for drawing objects in terminal."
+readme = "README.md"
+repository = "https://github.com/inventshah/ascii_graphics"
+keywords = ["graphics", "ascii"]
+categories = ["graphics", "gui"]
